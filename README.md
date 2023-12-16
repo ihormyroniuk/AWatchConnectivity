@@ -1,4 +1,4 @@
-# AFoundation
+# AWatchConnectivity
 
 AWatchConnectivity is an advanced extension for [Watch Connectivity](https://developer.apple.com/documentation/watchconnectivity) framework. It contains source code, principles and best practices for building efficient, reliable and maintable code.
 
